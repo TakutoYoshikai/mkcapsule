@@ -14,6 +14,7 @@ echo export PATH=$PATH:/path/to/mkcapsule >> ~/.bashrc
 **make a capsule**
 ```bash
 mkcapsule <SECRET FILE>
+# exported capsule file as "data" in current directory.
 ```
 
 ### License
