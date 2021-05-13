@@ -13,7 +13,7 @@ git clone https://github.com/TakutoYoshikai/mkcapsule.git
 cd mkcapsule
 ./install.sh
 # register PATH
-echo export PATH=$PATH:/path/to/mkcapsule >> ~/.bashrc
+echo export PATH=$PATH:/path/to/mkcapsule/bin >> ~/.bashrc
 ```
 
 **make a capsule**
