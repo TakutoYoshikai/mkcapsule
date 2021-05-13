@@ -8,4 +8,5 @@ rm `basename $1`
 cat src/1.txt src/2.txt src/3.txt > src/main.rs
 rm src/2.txt
 cargo build --release
+git checkout src/main.rs
 cp target/release/capsule $d/`basename $1`.capsule
