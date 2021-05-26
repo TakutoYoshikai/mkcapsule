@@ -1,5 +1,5 @@
 # mkcapsule
-This is a client program of [capsule](https://github.com/TakutoYoshikai/capsule).
+mkcapsule can be used for saving secret data. capsule file is an executable file to extract encrypted data in the capsule file. The secret data is encrypted by MAC address of your PC automatically. You should separate and store the secret data and your PC.
 
 ### Requirements
 * Ubuntu 20.10
